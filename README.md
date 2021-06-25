@@ -5,3 +5,8 @@ This repository talks about the development of the necessary skills to learn to 
 general programming languages: C, Java, Java Scrip & Python
 
 1st modification
+
+1st commit
+
+3rd modification
+
